@@ -1,6 +1,8 @@
 ### Hello, I'm Rafael Gomes!
 
-I'm a web and mobile developer. I'm currently working with financial projects. Where there is a real demand for performance and distribution. I also have knowledge in C# microservices structure. I'm interested in contributing to an open source project!
+I'm a front-end developer. I currently work with the development of web, mobile and hybrid applications.
+I also have knowledge in building microservices and Rest API using C#.
+I'm always looking for new challenges.
 
 <div>
     <a target='_blank' href="https://www.linkedin.com/in/rafael-gomes-21493a119/">
