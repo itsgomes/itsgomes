@@ -1,7 +1,6 @@
 ### Hello, I'm Rafael Gomes!
 
 I'm a front-end developer. I currently work with the development of web, mobile and hybrid applications.
-I also have knowledge in building microservices and Rest API using C#.
 I'm always looking for new challenges.
 
 <div>
